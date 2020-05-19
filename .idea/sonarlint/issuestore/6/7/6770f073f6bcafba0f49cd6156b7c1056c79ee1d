@@ -1,0 +1,7 @@
+
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Ù‚¢Œúÿÿÿÿ8±ÜÒÁ¡.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿÄ§éúÿÿÿÿ8Ù¾ÒÁ¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ˆ¡•8è§ŸÁ¡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ðèú

@@ -1,0 +1,12 @@
+
+asquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8åä„â¡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºþýÿúÿÿÿÿ8åä„â¡.
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8åä„â¡.
+isquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Ê‰¬åÿÿÿÿÿ8åä„â¡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ðèú
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8åä„â¡.
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(êéª¦úÿÿÿÿ8åä„â¡.

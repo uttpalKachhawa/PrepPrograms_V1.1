@@ -1,6 +1,8 @@
 package practice;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 /**
@@ -10,9 +12,9 @@ public class LongestConsecutiveSequence {
 
 
     public static void main(String[] args) {
-        int a[] = {3,9,1,10,4,20,2,5};
+        int a[] = {1,2,3,1,2,3,4,2,3,4,5,6,1,2,2,3,3};
 
-        Set<Integer> set = new HashSet<>();
+        List<Integer> set = new ArrayList<>();
         for (int i = 0; i < a.length; i++) {
             set.add(a[i]);
         }

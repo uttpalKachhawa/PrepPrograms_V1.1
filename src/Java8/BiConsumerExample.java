@@ -6,9 +6,15 @@ import java.util.function.BiConsumer;
  * @author 703238043 on Jul, 2020
  */
 public class BiConsumerExample {
+
+
     public static void main(String[] args) {
+
+        System.out.println("test");
+
         BiConsumer<Integer, Integer> addTwo = (x, y) -> System.out.println(x + y);
         addTwo.accept(1, 2);
+    char i='9';
 
 
         addTwo(1, 2, (x, y) -> System.out.println(x + y));          // 3

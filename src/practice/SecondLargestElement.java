@@ -1,5 +1,7 @@
 package practice;
 
+import java.util.Arrays;
+
 /**
  * @author 703238043 on Apr, 2020
  */
@@ -8,6 +10,7 @@ public class SecondLargestElement {
     static  int second_largest=Integer.MIN_VALUE;
 
     public static void findSecondLargestElement(int a[]){
+
 
         for(int i=0;i<a.length;i++){
 

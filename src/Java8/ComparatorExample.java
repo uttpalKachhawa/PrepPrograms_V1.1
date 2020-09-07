@@ -79,7 +79,9 @@ public class ComparatorExample {
 
         employee1List.sort(((o1, o2) -> o2.getName().compareTo(o1.getName())));
 
+
         employee1List.forEach((employee2) -> System.out.println(employee2));
+
 
         System.out.println("AfterSortBy ID");
 

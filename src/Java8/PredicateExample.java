@@ -15,12 +15,12 @@ public class PredicateExample {
         Predicate<String> startsWithA=x->x.startsWith("A");
 
         List<String> list= Arrays.asList("A", "AA", "AAA", "B", "BB", "BBB");
-
+        System.out.println("list.size() = " + list.size());
         List<String> collect=list.stream()
                 .filter(startsWithA.negate())
                 .collect(Collectors.toList());
 
-        System.out.println("collect = " + collect);
+        System.out.println("collect = " + collect.size());
 
         System.out.println(PredicateExample.filter(
                 list, x -> x.startsWith("A")));

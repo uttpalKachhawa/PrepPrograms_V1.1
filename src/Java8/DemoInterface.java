@@ -6,6 +6,7 @@ package Java8;
 
 interface  Phone{
 
+
     void call();
     default void message(){
         System.out.println("sent message");

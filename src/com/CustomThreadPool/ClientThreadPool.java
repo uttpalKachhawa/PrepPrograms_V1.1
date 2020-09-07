@@ -10,6 +10,7 @@ public class ClientThreadPool {
         ThreadPool threadPool=new ThreadPool(3,3);
         for(int taskNumber = 1 ; taskNumber <= 7; taskNumber++) {
             TestTask task = new TestTask(taskNumber);
+
             threadPool.submitTask(task);
         }
 

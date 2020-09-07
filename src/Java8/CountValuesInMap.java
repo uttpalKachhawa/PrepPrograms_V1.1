@@ -11,8 +11,10 @@ import java.util.stream.Stream;
  * @author 703238043 on Jul, 2020
  */
 public class CountValuesInMap {
-
+int val=10;
     public static void main(String[] args) {
+        CountValuesInMap m= new  CountValuesInMap();
+        System.out.println(m.val);
 
         Map<String, Integer> map = new HashMap();
         map.put("a", 12);
@@ -30,6 +32,10 @@ public class CountValuesInMap {
                                 Collectors.counting()));
 
         System.out.println(freq);
+        String name= new String("a,b,c");
+        name=name.replaceAll(",",":");
+        System.out.println(name);
+
 
 
     }

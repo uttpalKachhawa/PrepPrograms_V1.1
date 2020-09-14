@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Consumer;
 
 /**
- * @author 703238043 on Jul, 2020
+ * @author uttpal on Jul, 2020
  */
 class ConsumerImplement implements  Consumer<Integer>{
 

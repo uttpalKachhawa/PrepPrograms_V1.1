@@ -3,7 +3,7 @@ package practice;
 import java.util.Arrays;
 
 /**
- * @author 703238043 on Apr, 2020
+ * @author uttpal on Apr, 2020
  */
 public class SecondLargestElement {
     static int largest=Integer.MIN_VALUE;

@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * @author 703238043 on Aug, 2020
+ * @author uttpal on Aug, 2020
  */
 public class GraphUsingLinkedList {
 

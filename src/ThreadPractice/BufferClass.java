@@ -7,7 +7,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @author 703238043 on May, 2020
+ * @author Uttpal on May, 2020
  */
 public class BufferClass<T> {
 

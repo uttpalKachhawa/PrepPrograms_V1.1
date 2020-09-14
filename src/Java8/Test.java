@@ -1,7 +1,7 @@
 package Java8;
 
 /**
- * @author 703238043 on Jul, 2020
+ * @author uttpal on Jul, 2020
  */
 public class Test {
 

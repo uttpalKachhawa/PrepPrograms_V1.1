@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * @author 703238043 on Jul, 2020
+ * @author uttpal on Jul, 2020
  */
 
 class Employee {

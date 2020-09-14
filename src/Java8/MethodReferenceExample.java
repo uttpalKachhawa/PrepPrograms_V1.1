@@ -6,7 +6,7 @@ import java.util.function.BiFunction;
 import java.util.stream.Collectors;
 
 /**
- * @author 703238043 on Jul, 2020
+ * @author uttpal on Jul, 2020
  */
 class SimplePrinter {
     public static void print(String str) {

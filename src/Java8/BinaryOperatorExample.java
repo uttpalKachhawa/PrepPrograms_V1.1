@@ -8,7 +8,7 @@ import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;
 
 /**
- * @author 703238043 on Jul, 2020
+ * @author uttpal on Jul, 2020
  */
  class Developer {
 

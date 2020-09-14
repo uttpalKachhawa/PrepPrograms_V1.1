@@ -3,7 +3,7 @@ package ThreadPractice;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * @author 703238043 on May, 2020
+ * @author uttpal on May, 2020
  */
 public class MyRunnableTask implements Runnable {
 CountDownLatch countDownLatch;

@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author 703238043 on May, 2020
+ * @author uttpal on May, 2020
  */
 public class ProducerThread implements Runnable {
 

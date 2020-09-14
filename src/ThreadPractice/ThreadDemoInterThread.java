@@ -1,7 +1,7 @@
 package ThreadPractice;
 
 /**
- * @author 703238043 on May, 2020
+ * @author uttpal on May, 2020
  */
 public class ThreadDemoInterThread { public static void main(String[] args) throws Exception{
         MyThread6 myThread6=new MyThread6();

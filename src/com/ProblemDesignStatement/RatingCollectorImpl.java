@@ -3,7 +3,7 @@ package com.ProblemDesignStatement;
 import java.util.*;
 
 /**
- * @author 703238043 on Sep, 2020
+ * @author uttpal on Sep, 2020
  */
 public class RatingCollectorImpl implements RatingCollector {
 

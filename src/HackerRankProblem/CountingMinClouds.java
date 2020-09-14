@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * @author 703238043 on Sep, 2020
+ * @author uttpal on Sep, 2020
  */
 public class CountingMinClouds {
     static int jumpingOnClouds(int[] c) {

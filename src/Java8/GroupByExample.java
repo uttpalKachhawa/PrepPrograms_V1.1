@@ -8,7 +8,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
- * @author 703238043 on Apr, 2020
+ * @author uttpal on Apr, 2020
  */
 public class GroupByExample {
     public static void main(String[] args) {

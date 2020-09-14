@@ -3,7 +3,7 @@ package ThreadLocale;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author 703238043 on Apr, 2020
+ * @author uttpal on Apr, 2020
  */
 public class ThreadLocalManager {
 

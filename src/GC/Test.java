@@ -1,7 +1,7 @@
 package GC;
 
 /**
- * @author 703238043 on Apr, 2020
+ * @author uttpal on Apr, 2020
  */
 public class Test {
     public static void main(String args[]){
